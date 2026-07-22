@@ -41,12 +41,11 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📜 Sertifikalar & Eğitimler
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihozturkk&show_icons=true&theme=tokyonight&locale=tr" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihozturkk&layout=compact&theme=tokyonight&locale=tr" height="150"/>
-</p>
+* 🤖 **[Python ile Makine Öğrenmesi Uygulamaları](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qgueLWgPN)** — BTK Akademi
+* ☕ **[JAVA ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=gK2haaB68d)** — BTK Akademi
+* 🌐 **[HTML5 ile Web Geliştirme](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho1LOL1)** — BTK Akademi
 
 ---
 
