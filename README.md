@@ -27,7 +27,7 @@
 ### 🧠 Diller ve Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,matlab,mysql,html,css,flutter,git,github,vscode&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=py,java,cs,matlab,mysql,html,css,flutter,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
@@ -44,8 +44,8 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihozturkk&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihozturkk&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihozturkk&show_icons=true&theme=tokyonight&locale=tr" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihozturkk&layout=compact&theme=tokyonight&locale=tr" height="150"/>
 </p>
 
 ---
